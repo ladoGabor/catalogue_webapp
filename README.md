@@ -1,5 +1,5 @@
-Project Title: Catalouge Webapp
-Project Dscptn: A user friendly catalouge specialized to create, maintain and edit a collection of comic books
+Project Title: Catalogue Webapp
+Project Dscptn: A user friendly Catalogue specialized to create, maintain and edit a collection of comic books
 
 Project scope and milestones
 1. to build a website with working UX, using HTML and CSS and JS 
